@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swagat Patil</h1>
-- 🌱 I’m currently learning **Angular**
 
-- 💬 Currently working on **Spring Boot, react and MySql**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
